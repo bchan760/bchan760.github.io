@@ -1,0 +1,52 @@
+body{
+    background-color:white;
+    .a{
+        height: 100px;
+        width: 100px;
+        background-color:red
+    }
+    .b{
+        height: 100px;
+        width: 100px;
+        background-color:black
+    }
+    .c{
+        height: 100px;
+        width: 100px;
+        background-color:blue
+    }
+    .d{
+        height: 100px;
+        width: 100px;
+        background-color:cyan 
+    }
+    .e{
+        height: 100px;
+        width: 100px;
+        background-color:purple
+    }
+    .f{
+        height: 100px;
+        width: 100px;
+        background-color:green 
+    }
+    .g{
+        height: 100px;
+        width: 100px;
+        background-color:yellow
+    }
+    .h{
+        height: 100px;
+        width: 100px;
+        background-color:pink 
+    }
+    .i{
+        height: 100px;
+        width: 100px;
+        background-color:silver
+    }
+}
+.box{
+    height: 300px;
+    width: 300px;
+}
